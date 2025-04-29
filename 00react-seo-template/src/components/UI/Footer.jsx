@@ -1,4 +1,8 @@
 import { NavLink } from 'react-router-dom';
+import '../../assets/js/jquery.min.js';  
+import '../../assets/js/script.min.js';
+import '../../assets/js/bootstrap.bundle.min.js';
+
 
 export const Footer = () => {
      return (
